@@ -1,0 +1,57 @@
+{
+    "pizza_category": {
+        "Supreme": 0,
+        "Chicken": 1,
+        "Veggie": 2,
+        "Classic": 3
+    },
+    "pizza_size": {
+        "XXL": 0,
+        "XL": 1,
+        "L": 2,
+        "M": 3,
+        "S": 4
+    },
+    "pizza_name": {
+        "The Brie Carre Pizza": 0,
+        "The Greek Pizza": 1,
+        "The Five Cheese Pizza": 2,
+        "The Chicken Alfredo Pizza": 3,
+        "The Italian Vegetables Pizza": 4,
+        "The Barbecue Chicken Pizza": 5,
+        "The Thai Chicken Pizza": 6,
+        "The Southwest Chicken Pizza": 7,
+        "The California Chicken Pizza": 8,
+        "The Chicken Pesto Pizza": 9,
+        "The Soppressata Pizza": 10,
+        "The Spinach Supreme Pizza": 11,
+        "The Italian Supreme Pizza": 12,
+        "The Pepper Salami Pizza": 13,
+        "The Spicy Italian Pizza": 14,
+        "The Spinach Pesto Pizza": 15,
+        "The Prosciutto and Arugula Pizza": 16,
+        "The Calabrese Pizza": 17,
+        "The Four Cheese Pizza": 18,
+        "The Sicilian Pizza": 19,
+        "The Italian Capocollo Pizza": 20,
+        "The Classic Deluxe Pizza": 21,
+        "The Napolitana Pizza": 22,
+        "The Mexicana Pizza": 23,
+        "The Mediterranean Pizza": 24,
+        "The Spinach and Feta Pizza": 25,
+        "The Vegetables + Vegetables Pizza": 26,
+        "The Green Garden Pizza": 27,
+        "The Pepperoni, Mushroom, and Peppers Pizza": 28,
+        "The Hawaiian Pizza": 29,
+        "The Pepperoni Pizza": 30,
+        "The Big Meat Pizza": 31
+    },
+    "festival": {
+        "No Festival": 0,
+        "Easter Sunday": 1,
+        "Memorial Day": 2,
+        "Independence Day": 3,
+        "Labor Day": 4,
+        "Thanksgiving Day": 5
+    }
+}
